@@ -1,4 +1,5 @@
 "use strict";
-let a=2,b=3;
-let num = 123;
-alert(num+a+b);
+let str1 = 'xxx';
+let str2 = 'yyy';
+let txt  = `aaa ${str1} bbb ${str2} ccc`;
+alert(txt);
